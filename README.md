@@ -16,7 +16,7 @@ Microsoft Excel was used to collect and analyze the publicly available race time
 
 
 # Preview
-| ![Preview of Presentation Deck.](https://github.com/micgonzalez/Automated-Labeling-Tool/blob/main/Automated_Labeling_Tool_Images/preview%20of%20version%2002%20tool.jpg) |
+| ![Preview of Presentation Deck.](https://github.com/micgonzalez/2023-Disneyland-Resort-Canoe-Races-AAR/blob/main/2023_Canoe_Race_Preview.png) |
 |-|
 
 This is a preview of the Canoe Races Presentation.
